@@ -4,6 +4,9 @@
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![chrome-capture-2024-8-22](https://github.com/user-attachments/assets/cf482477-cadb-4681-8196-30533bedf32c)
+
+
 ## Live [Here](https://v-dav.github.io/spin-the-bottle/)
 
 ## Project Description
@@ -16,8 +19,6 @@ Spin The Bottle is a fun and interactive web application designed for social gat
 - **Random Player Selection**: Spin the bottle to randomly choose a player from the list.
 - **Reset Game**: Easily reset the game to start over with a new group of players.
 
-## Screenshot
-![chrome-capture-2024-8-22](https://github.com/user-attachments/assets/cf482477-cadb-4681-8196-30533bedf32c)
 
 ## Example Usage
 
